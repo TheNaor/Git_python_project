@@ -12,3 +12,4 @@ else:
     e = c
     if a is b:
         print("e is c")
+print("git lesson")
